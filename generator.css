@@ -1,0 +1,38 @@
+body {
+background-color:#aeefff;
+display:grid;
+justify-content:center ;
+align-items:center;
+    
+}
+.textInput{
+width:200px;
+height:20px;
+border:2px solid coral;
+    padding:5px;
+    color:#880000;
+    border-radius:5px;
+}
+.checkboxDiv{
+margin-top:1rem;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+        
+    
+}
+.checkboxDiv label{
+    display:flex;
+    width:50%;
+    justify-content:space-between;
+
+}
+.btn{
+    padding:10px;
+    margin-top:10px;
+    border-radius:5px;
+    background-color:coral;
+    border:0;
+    box-shadow:2px 2px 1px grey;
+    
+}￼Enter
