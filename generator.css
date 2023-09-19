@@ -12,6 +12,7 @@ border:2px solid coral;
     padding:5px;
     color:#880000;
     border-radius:5px;
+    text-align:center ;
 }
 .checkboxDiv{
 margin-top:1rem;
@@ -35,4 +36,19 @@ margin-top:1rem;
     border:0;
     box-shadow:2px 2px 1px grey;
     
-}￼Enter
+}
+
+.btn__div{
+    width:100%;
+}
+.btn{
+margin-top:20px;
+    width:100%;
+}
+footer{
+    position:absolute ;
+    bottom:5%;
+    font-size:12px;
+    left:42%;
+}
+
